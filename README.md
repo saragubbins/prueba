@@ -28,3 +28,6 @@
 <img width="290" alt="circular" src="https://github.com/user-attachments/assets/54d4f792-4546-45d7-859e-885d0f230ff9">
 ![boletin](https://github.com/user-attachments/assets/7e415f88-9ba8-4b60-a706-d1d507dd23ac)
 
+//foto mia
+![1694051609975](https://github.com/user-attachments/assets/12def185-569f-424a-a21e-f2152baecfe8)
+
