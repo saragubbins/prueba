@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Colección Tensoestuctura",
+        "descripcion": "Trabajo realizado para Taller Mecado I, donde se diseñó y confeccionó una colección a partir del concepto: las capas que ocultan la tensa convivencia entre mi interior y el exterior.",
+        "fecha": "2022",
+        "signo": "vestuario",
+        "foto": "https://github.com/user-attachments/assets/2476e8bd-1424-4145-ae16-a716b8dc3d44",
+        "fotos":"https://picsum.photos/id/447/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Colección Planos geometricos",
+        "descripcion": "Trabajo realizado para Taller Mecado I, donde se diseñó y confeccionó una colección a partir del uso de planos geometricos .",
+        "fecha": "2022",
+        "signo": "vestuario",
+        "foto": "https://github.com/user-attachments/assets/5e64a1ff-8318-469b-b5a7-b31a52e286d5",
+        "fotos": "https://picsum.photos/id/137/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Colección reciclados",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2021",
+        "signo": "vestuario",
+        "foto": "https://github.com/user-attachments/assets/a42dfb8c-8798-4d46-8bd8-3f54e5d862ab",
+        "fotos": "https://picsum.photos/id/442/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Punto de venta CircularPet",
+        "descripcion": "Trabajo realizado para Taller TIDE, donde se diseñó una nueva forma de vender alimento para para mascotas de Circular Pet, a través de un punto de venta a granel ubicado en veterinarias. Creando un instancia sistémica de contacto directo entre la marca y los usuarios..",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/f930eba8-80f8-417c-af63-809d7c889d4b",
+        "fotos": "https://picsum.photos/id/96/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "La Fábrica de Renca",
+        "descripcion": "Trabajo realizado para el Optativo de Profundización Introducción al Diseño de Servicios, donde se diseñó una plataforma digital que busca generar cercanía conceptual sobre la innovación a los renquinos mediante ejemplos concretos, simples y atractivos del uso de las técnologias ofrecidas.",
+        "fecha": "2022",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/b6b000be-67bc-4d7a-a55e-79c859633857",
+        "fotos": "https://picsum.photos/id/158/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Taller colaborativo TINTA",
+        "descripcion": "Producción colavoratiba de afiches oficiales de Tinta Arte Impreso 2022.",
+        "fecha": "2022",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/45574119-6329-4260-af71-00a2ec04d861",
+        "fotos": "https://picsum.photos/id/180/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Lookbook Gala Diseño",
+        "descripcion": "Fotografía, asistencia y postedición para lookbook de la gala de Diseño UC, bajo la tematica cyberpunk",
+        "fecha": "2022",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/5e7858e6-50ef-4395-90c8-3adf7f281266",
+        "fotos": "https://picsum.photos/id/157/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Sistema gráfico Emanuele Coccia",
+        "descripcion": "Diseño de identidad y piezas gráficas para el sistema de comunicación de la charla Inteligencias más que artificiales PROVOCACIONES SOBRE LA AGENCIA DE LO VIVO Y LO NO VIVO EN DISEÑO Y ARQUITECTURA",
+        "fecha": "2022",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/7112deec-18d9-428b-96de-0707faaaf42c",
+        "fotos": "https://picsum.photos/id/252/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Boletín Noticias Diseño UC",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2023",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/5467b2bd-b364-494a-81ec-4e24679fba09",
+        "fotos": "https://picsum.photos/id/357/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Feria SIstema x Diseño UC",
+        "descripcion": "Piezas de comunicación para la participación de Diseño UC en la Feria Sistema.",
+        "fecha": "2023",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/6e64b1ee-66a6-4758-8250-d970333d78f9",
+        "fotos": "https://picsum.photos/id/146/900/600",
+        "github": "https://github.com/profesorfaco"
+    }
+]
